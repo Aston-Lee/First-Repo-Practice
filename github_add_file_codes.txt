@@ -1,0 +1,4 @@
+git status
+git add [New_File_name]
+git commit -m "[Message for Commit]"
+git push
